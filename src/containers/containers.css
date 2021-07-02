@@ -1,0 +1,78 @@
+.cardDetailes {
+  text-align: center;
+  width: 50%;
+  height: 400px;
+  margin: 70px 0px 10px;
+  transform: translate(50%);
+}
+
+.deleteButton{
+    float:right;
+}
+.listgroup{
+  border:solid gray;
+
+}
+.cardDetailes2 {
+  text-align: center;
+  width: 50%;
+  height: 100px;
+  transform: translate(50%);
+}
+
+.accordionStyle{
+  border: solid lightgray 1px;
+  margin-top: 80px;
+  width: 50%;
+  transform: translate(50%);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title{
+  color: dimgrey;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.titles{
+    float: right;
+    margin-right: 50px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: dimgrey;
+    text-align: center;
+}
+.titles .amount{
+  color: blue;
+  font-weight: bold;
+}
+
+.titles .date{
+  color: #ffcc00;
+  font-weight: bold;
+
+}
+.icon-button{
+  margin-top: 10px;
+  float: right;
+}
+.icon-button .icon-color{
+  color: lightgray;
+}
+
+.blue-icon{
+  color: mediumseagreen;
+  float: right;
+  margin: 30px;
+}
+
+a.nav-title{
+  color: white;
+  font-weight: bold;
+}
+
+/* .titles p{
+  color: green;
+  font-weight: bold;
+} */
+
